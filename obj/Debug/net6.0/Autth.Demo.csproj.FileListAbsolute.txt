@@ -1,0 +1,9 @@
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.csproj.AssemblyReference.cache
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.AssemblyInfoInputs.cache
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.AssemblyInfo.cs
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.csproj.CoreCompileInputs.cache
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.RazorAssemblyInfo.cache
+C:\Users\vijayalakshmi.surend\source\repos\Autth.Demo\Autth.Demo\obj\Debug\net6.0\Autth.Demo.RazorAssemblyInfo.cs
